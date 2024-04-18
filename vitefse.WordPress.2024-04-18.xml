@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.2" created="2024-04-18 09:23" -->
+	<!-- generator="WordPress/6.5.2" created="2024-04-18 09:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Vite FSE</title>
 	<link>http://multisite.local/vite-fse</link>
 	<description></description>
-	<pubDate>Thu, 18 Apr 2024 09:23:31 +0000</pubDate>
+	<pubDate>Thu, 18 Apr 2024 09:43:22 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://multisite.local/</wp:base_site_url>
@@ -281,13 +281,13 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<dc:creator><![CDATA[supernova]]></dc:creator>
 		<guid isPermaLink="false">http://multisite.local/vite-fse/2024/04/18/wp-global-styles-twentytwentyfour/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"styles":{"color":{"background":"var:preset|color|accent"},"elements":{"button":{"color":{"text":"var:preset|color|base-2","background":"var:preset|color|contrast-2"}}}},"settings":{"typography":{"fontFamilies":{"theme":[{"fontFace":[{"fontFamily":"Inter","fontStretch":"normal","fontStyle":"normal","fontWeight":"300 900","src":["file:.\/assets\/fonts\/inter\/Inter-VariableFont_slnt,wght.woff2"]}],"fontFamily":"\"Inter\", sans-serif","name":"Inter","slug":"body"},{"fontFace":[{"fontFamily":"Cardo","fontStyle":"normal","fontWeight":"400","src":["file:.\/assets\/fonts\/cardo\/cardo_normal_400.woff2"]},{"fontFamily":"Cardo","fontStyle":"italic","fontWeight":"400","src":["file:.\/assets\/fonts\/cardo\/cardo_italic_400.woff2"]},{"fontFamily":"Cardo","fontStyle":"normal","fontWeight":"700","src":["file:.\/assets\/fonts\/cardo\/cardo_normal_700.woff2"]}],"fontFamily":"Cardo","name":"Cardo","slug":"heading"},{"fontFamily":"-apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif","name":"System Sans-serif","slug":"system-sans-serif"},{"fontFamily":"Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol","name":"System Serif","slug":"system-serif"}],"custom":[{"name":"ADLaM Display","slug":"adlam-display","fontFamily":"\"ADLaM Display\", system-ui","fontFace":[{"src":"http:\/\/multisite.local\/vite-fse\/wp-content\/uploads\/sites\/2\/fonts\/KFOhCnGXkPOLlhx6jD8_b1ZECsTYkYBPY3o.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"ADLaM Display\""}]},{"name":"AR One Sans","slug":"ar-one-sans","fontFamily":"\"AR One Sans\", sans-serif","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/ar-one-sans\/ar-one-sans.svg","fontFace":[{"src":"http:\/\/multisite.local\/vite-fse\/wp-content\/uploads\/sites\/2\/fonts\/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9DWg3no5mBF4.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"AR One Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/ar-one-sans\/ar-one-sans-400-normal.svg"}]}]}}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
+		<content:encoded><![CDATA[{"styles":{"color":{"background":"var(--wp--preset--color--accent)"},"elements":{"button":{"color":{"text":"var(--wp--preset--color--base-2)","background":"var(--wp--preset--color--contrast-2)"}}}},"settings":{"typography":{"fontFamilies":{"theme":[{"fontFace":[{"fontFamily":"Inter","fontStretch":"normal","fontStyle":"normal","fontWeight":"300 900","src":["file:.\/assets\/fonts\/inter\/Inter-VariableFont_slnt,wght.woff2"]}],"fontFamily":"\"Inter\", sans-serif","name":"Inter","slug":"body"},{"fontFace":[{"fontFamily":"Cardo","fontStyle":"normal","fontWeight":"400","src":["file:.\/assets\/fonts\/cardo\/cardo_normal_400.woff2"]},{"fontFamily":"Cardo","fontStyle":"italic","fontWeight":"400","src":["file:.\/assets\/fonts\/cardo\/cardo_italic_400.woff2"]},{"fontFamily":"Cardo","fontStyle":"normal","fontWeight":"700","src":["file:.\/assets\/fonts\/cardo\/cardo_normal_700.woff2"]}],"fontFamily":"Cardo","name":"Cardo","slug":"heading"},{"fontFamily":"-apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif","name":"System Sans-serif","slug":"system-sans-serif"},{"fontFamily":"Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol","name":"System Serif","slug":"system-serif"}],"custom":[{"name":"ADLaM Display","slug":"adlam-display","fontFamily":"\"ADLaM Display\", system-ui","fontFace":[{"src":"http:\/\/multisite.local\/vite-fse\/wp-content\/uploads\/sites\/2\/fonts\/KFOhCnGXkPOLlhx6jD8_b1ZECsTYkYBPY3o.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"ADLaM Display\""}]},{"name":"AR One Sans","slug":"ar-one-sans","fontFamily":"\"AR One Sans\", sans-serif","fontFace":[{"src":"http:\/\/multisite.local\/vite-fse\/wp-content\/uploads\/sites\/2\/fonts\/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9DWg3no5mBF4.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"AR One Sans\""}]},{"name":"Aclonica","slug":"aclonica","fontFamily":"Aclonica, sans-serif","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/aclonica\/aclonica.svg","fontFace":[{"src":"http:\/\/multisite.local\/vite-fse\/wp-content\/uploads\/sites\/2\/fonts\/K2FyfZJVlfNNSEBXGb7WCI6oBjLz.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"Aclonica","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/aclonica\/aclonica-400-normal.svg"}]}]}}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-18 09:17:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-18 09:17:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-18 09:23:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-18 09:23:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-18 09:39:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-18 09:39:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
@@ -447,8 +447,8 @@ This email is a receipt for your contact form submission on our website ([_site_
 <div style="height:1.25rem" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.</p>
+<!-- wp:paragraph {"align":"center","fontFamily":"aclonica"} -->
+<p class="has-text-align-center has-aclonica-font-family">Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"1.25rem"} -->
@@ -741,8 +741,8 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-18 09:23:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-18 09:23:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-18 09:23:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-18 09:23:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-18 09:39:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-18 09:39:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -756,6 +756,58 @@ This email is a receipt for your contact form submission on our website ([_site_
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Aclonica]]></title>
+		<link>http://multisite.local/vite-fse/2024/04/18/aclonica/</link>
+		<pubDate>Thu, 18 Apr 2024 09:39:25 +0000</pubDate>
+		<dc:creator><![CDATA[supernova]]></dc:creator>
+		<guid isPermaLink="false">http://multisite.local/vite-fse/2024/04/18/aclonica/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Aclonica, sans-serif","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/aclonica\/aclonica.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-18 09:39:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-18 09:39:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-18 09:39:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-18 09:39:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[aclonica]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[aclonica;normal;400;100%;U+0-10FFFF]]></title>
+		<link>http://multisite.local/vite-fse/2024/04/18/aclonicanormal400100u0-10ffff/</link>
+		<pubDate>Thu, 18 Apr 2024 09:39:25 +0000</pubDate>
+		<dc:creator><![CDATA[supernova]]></dc:creator>
+		<guid isPermaLink="false">http://multisite.local/vite-fse/2024/04/18/aclonicanormal400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"src":"http:\/\/multisite.local\/vite-fse\/wp-content\/uploads\/sites\/2\/fonts\/K2FyfZJVlfNNSEBXGb7WCI6oBjLz.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"Aclonica","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/aclonica\/aclonica-400-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-18 09:39:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-18 09:39:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-18 09:39:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-18 09:39:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[aclonicanormal400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>16</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[K2FyfZJVlfNNSEBXGb7WCI6oBjLz.woff2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
